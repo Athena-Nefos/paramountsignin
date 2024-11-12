@@ -1,0 +1,31 @@
+.navbar{
+    border: 1px solid red;
+    background-color: black;
+    height: 56px;
+    display: flex;
+    Justify-content: Space-between;
+
+}
+.signup, ul{
+    list-style-type: none;
+    
+}
+.signup, ul, a{
+    text-decoration: none;
+    color: white;
+    font-family: Proxima Nova Regular, sans-serif; 
+    font-weight: lighter;
+    position: relative;
+    top: 1px;
+    right: 10px;
+
+}
+.paramountlogo{
+    position: relative;
+    top: 15px;
+    right: -27px;
+}
+.logo{
+    height: 21px;
+    width: 95px
+}
