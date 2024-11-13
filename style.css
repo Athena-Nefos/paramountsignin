@@ -1,9 +1,11 @@
 .navbar{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     background-color: black;
     height: 56px;
     display: flex;
     Justify-content: Space-between;
+    margin: 0;
+    padding: 0;
 
 }
 .signup, ul{
@@ -28,4 +30,15 @@
 .logo{
     height: 21px;
     width: 95px
+}
+.main{
+    height: 650px;
+    width: 450px;
+    border: 1px solid green;
+    margin: 30px auto 0 auto;
+}
+.email{
+    height: 45px;
+    width: 450px;
+    border: 1px solid pink
 }
