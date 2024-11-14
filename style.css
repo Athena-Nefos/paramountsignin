@@ -79,5 +79,65 @@
     border: 1px solid lightgrey;
 }
 .memo{
+    height: 45px;
+    width: 450px;
+    border: 1px solid pink;
     text-align: center;
+    padding-bottom: 5px;
+}
+a{
+    color: blue;
+}
+.cnct-btn{
+    height: 45px;
+    width: 450px;
+    border: 1px solid pink;
+    position: absolute;
+    right: 162px;
+    top: 444px
+}
+.btn{
+    height: 45px;
+    background-color:white;
+    color: blue;
+    border: 1px solid blue;
+    padding: 0 35px 0 35px;
+    margin: 10px;
+
+}
+.footer{
+    height: 650px;
+    width: 450px;
+    border: 1px solid purple;
+    position: absolute;
+    top: 750px;
+    left: 285px
+}
+.logo2{
+    position: absolute;
+    left: 155px;
+    margin: 5px
+}
+.txt{
+    height: 45px;
+    width: 450px;
+    border: 1px solid pink;
+    position: absolute;
+    top: 45px ;
+    
+}
+.txt2{
+    text-align: center;
+
+}
+.links{
+    height: 45px;
+    width: 450px;
+    border: 1px solid pink;
+    position: absolute;
+    top: 125px;
+}
+.fb{
+    position: absolute;
+    left: 125px
 }
