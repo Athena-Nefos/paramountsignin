@@ -1,3 +1,8 @@
+body{
+    height: 350vh;
+    margin: 0;
+}
+
 .navbar{
     /* border: 1px solid red; */
     background-color: black;
@@ -141,3 +146,41 @@ a{
     position: absolute;
     left: 125px
 }
+.twtr{
+    position: absolute;
+    left: 175px;
+}
+.yt{
+    height: 45%;
+    position: absolute;
+    left: 230px
+}
+.insta{
+    height: 47%;
+    position: absolute;
+    left: 290px
+}
+.copywrite{
+    height: 45px;
+    width: 450px;
+    border: 1px solid pink;
+    position: absolute;
+    top: 90px;
+    text-align: center;
+}
+.site{
+    height: 45px;
+    width: 450px;
+    border: 1px solid pink;
+    position: absolute;
+    top: 180px;
+    text-align: center;
+}
+.site2{
+    position: relative;
+    top: 225px;
+}
+.info{
+    position: relative;
+    top: 270px
+}   
