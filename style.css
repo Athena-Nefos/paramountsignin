@@ -99,7 +99,7 @@ a{
     border: 1px solid pink;
     position: absolute;
     right: 162px;
-    top: 444px
+    top: 444px;
 }
 .btn{
     height: 45px;
@@ -108,7 +108,9 @@ a{
     border: 1px solid blue;
     padding: 0 35px 0 35px;
     margin: 10px;
-
+}
+.btn:hover{
+    cursor: pointer;
 }
 .footer{
     height: 650px;
