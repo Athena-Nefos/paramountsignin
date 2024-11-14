@@ -37,8 +37,47 @@
     border: 1px solid green;
     margin: 30px auto 0 auto;
 }
+.hr{
+    margin: 0;
+}
 .email{
     height: 45px;
     width: 450px;
     border: 1px solid pink
+}
+.password{
+    height: 45px;
+    width: 450px;
+    border: 1px solid pink
+}
+.cont-btn{
+    height: 45px;
+    width: 450px;
+    border: 1px solid pink;
+
+}
+.frgtpass{
+    height: 45px;
+    width: 450px;
+    border: 1px solid pink;
+    text-align: center;
+}
+.frgtpass, p{
+    padding-bottom: 6px;
+}
+.rule-or{
+    height: 45px;
+    width: 450px;
+    border: 1px solid pink;
+    display: flex;
+    align-items: center;
+}
+.ruled{
+    flex: 1;
+    margin: 0 10px;
+    background-color: lightgrey;
+    border: 1px solid lightgrey;
+}
+.memo{
+    text-align: center;
 }
